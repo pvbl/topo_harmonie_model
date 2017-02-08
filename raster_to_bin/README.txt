@@ -1,5 +1,5 @@
 #************************************************
-########CREATE HARMONIE BINARIES && PLOT  RASTER AND BINARIES############
+########BUILD  BINARIES FOR HARMONIE MODEL && PLOT  RASTER AND BINARIES############
 #***************************************************
 #
 #  Project: Introduce High Resolution Topography into HARMONIE model 
