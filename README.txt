@@ -8,7 +8,7 @@
 # 
 #
 #
-#  Author:  Paul Van Branteghem, paulvanlorenzo@hotmail.com
+#  Author: Paul vb
 #            Intership AEMET
 #
 #  DEPENDENCES: gdal, matplotlib, numpy, and TOPO_HARMONIE file
